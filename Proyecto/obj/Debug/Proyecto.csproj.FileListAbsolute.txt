@@ -1,0 +1,38 @@
+C:\Users\Israel_567\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Israel_567\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Israel_567\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Israel_567\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Israel_567\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Israel_567\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\Israel_567\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Form3.resources
+C:\Users\Israel_567\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Israel_567\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Israel_567\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Israel_567\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Israel_567\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\LADY\Pictures\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\LADY\Pictures\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\LADY\Pictures\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\LADY\Pictures\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.Form3.resources
+C:\Users\LADY\Pictures\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\LADY\Pictures\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\LADY\Pictures\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\LADY\Pictures\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\LADY\Pictures\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\LADY\Pictures\Proyect\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\LADY\Pictures\Proyect\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\LADY\Pictures\Proyect\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\LADY\Pictures\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.Form4.resources
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.Form3.resources
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.Form4.resources
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
