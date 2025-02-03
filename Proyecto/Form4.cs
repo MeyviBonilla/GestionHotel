@@ -230,7 +230,7 @@ namespace Proyecto
             {
                 Document = printDoc,
                 UseEXDialog = true
-            };
+            }; 
 
             printDoc.PrinterSettings.PrinterName = "Microsoft Print to PDF";
             printDoc.PrinterSettings.PrintToFile = true;
