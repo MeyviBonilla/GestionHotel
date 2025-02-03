@@ -36,3 +36,16 @@ C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proye
 C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
 C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.exe
 C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\proyecto\Proyect\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\obj\Debug\Proyecto.Form3.resources
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\obj\Debug\Proyecto.Form4.resources
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\obj\Debug\Proyecto.pdb
