@@ -12,7 +12,7 @@ namespace Proyecto
         public string Descripcion { get; set; }
         public List<string> Servicios { get; set; }
 
-        public Hotel(string nombre)
+        public Hotel(string nombre)  
         {
             Nombre = nombre;
             Servicios = new List<string>();
