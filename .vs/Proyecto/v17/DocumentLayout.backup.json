@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\proyecto\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\proyecto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\proyecto\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|c:\\users\\meyvi\\desktop\\segundo semestre tic\\programaci\u00F3n\\gestionhotel\\proyecto\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\proyecto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\proyecto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\proyecto\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|c:\\users\\meyvi\\desktop\\segundo semestre tic\\programaci\u00F3n\\gestionhotel\\proyecto\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\proyecto\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ListHoteles.cs",
               "DocumentMoniker": "C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\Proyecto\\ListHoteles.cs",
               "RelativeDocumentMoniker": "Proyecto\\ListHoteles.cs",
@@ -66,12 +66,11 @@
               "RelativeToolTip": "Proyecto\\ListHoteles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T22:23:41.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T22:23:41.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Form4.cs",
               "DocumentMoniker": "C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\Proyecto\\Form4.cs",
               "RelativeDocumentMoniker": "Proyecto\\Form4.cs",
@@ -84,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form4.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\Proyecto\\Form4.cs",
               "RelativeDocumentMoniker": "Proyecto\\Form4.cs",
@@ -96,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Hotel.cs",
               "DocumentMoniker": "C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\Proyecto\\Hotel.cs",
               "RelativeDocumentMoniker": "Proyecto\\Hotel.cs",
@@ -104,12 +103,11 @@
               "RelativeToolTip": "Proyecto\\Hotel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:19:46.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T16:19:46.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\Proyecto\\Form2.cs",
               "RelativeDocumentMoniker": "Proyecto\\Form2.cs",
@@ -122,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form2.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\Proyecto\\Form2.cs",
               "RelativeDocumentMoniker": "Proyecto\\Form2.cs",
@@ -134,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\Proyecto\\Form1.cs",
               "RelativeDocumentMoniker": "Proyecto\\Form1.cs",
@@ -142,8 +140,7 @@
               "RelativeToolTip": "Proyecto\\Form1.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:13:41.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T16:13:41.939Z"
             },
             {
               "$type": "Document",
@@ -155,8 +152,7 @@
               "RelativeToolTip": "Proyecto\\Form3.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAowLMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T20:24:45.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T20:24:45.646Z"
             },
             {
               "$type": "Document",
@@ -167,8 +163,7 @@
               "ToolTip": "C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\Proyecto\\Form3.cs [Dise\u00F1o]",
               "RelativeToolTip": "Proyecto\\Form3.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T20:09:31.728Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-01-28T20:09:31.728Z"
             },
             {
               "$type": "Document",
@@ -180,8 +175,7 @@
               "RelativeToolTip": "Proyecto\\Form4.Designer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwHcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:57:06.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T16:57:06.072Z"
             },
             {
               "$type": "Document",
@@ -192,8 +186,7 @@
               "ToolTip": "C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\Proyecto\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Proyecto\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T19:19:25.509Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-01-28T19:19:25.509Z"
             }
           ]
         }
