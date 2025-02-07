@@ -18,8 +18,8 @@ namespace Proyecto
         {
             hoteles = new Dictionary<string, Hotel>
             {
-                { "El Altar", new Hotel("Hotel El Altar") },
-                { "Montecarlo", new Hotel("Hotel Montecarlo") },
+                { "El Altar", new Hotel("Hotel El Altar" ) },
+                { "Montecarlo", new Hotel("Hotel Montecarlo" ) },
                 { "Chimborazo", new Hotel("Hotel Chimborazo") },
                 { "Zeus", new Hotel("Hotel Zeus") },
                 { "La Andaluza", new Hotel("Hotel La Andaluza") },
