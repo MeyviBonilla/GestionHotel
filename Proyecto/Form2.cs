@@ -97,14 +97,19 @@ namespace Proyecto
                 "US$120 US$120 + US$18 de impuestos y cargos  (4 PERSONAS)",
 
             };
+            hoteles["El Altar"].VistaGeneral = "El Hotel El Altar cuenta con amplias " +
+               "habitaciones con vista panorámica a la montaña,\n" +
+               "un restaurante exclusivo y una piscina climatizada para el confort de sus huéspedes.";
+
+
         }
 
         private void InitializeHotelMontecarlo()
         {
-            hoteles["Montecarlo"].Descripcion = "Hotel El Altar está en Riobamba, a 50 km del Volcán Chimborazo," +
+            hoteles["Montecarlo"].Descripcion = "Hotel El Montecarlo está en Riobamba, a 50 km del Volcán Chimborazo," +
                 "y ofrece alojamiento con jardín, parking privado gratis, salón de uso común y restaurante. " +
                 " Este maravillos hotel ofrece servicio de habitaciones y recepción 24 horas. Algunas habitaciones  del  alojamiento " +
-                " incluyen un balcón con vistas al jardín. Esta ubicado en la 10 de Agosto y España,  Riobamba, Ecuador xd.";
+                " incluyen un balcón con vistas al jardín. Esta ubicado en la 10 de Agosto y España,  Riobamba, Ecuador.";
 
             hoteles["Montecarlo"].Servicios = new List<string>
             {
@@ -145,6 +150,12 @@ namespace Proyecto
                 "US$86 US$86 + US$13 de impuestos y cargos  (5 PERSONAS)",
 
             };
+            hoteles["Montecarlo"].VistaGeneral = "El Hotel Montecarlo ofrece un entorno exclusivo " +
+                "con impresionantes vistas al mar y a las montañas \ncircundantes, " +
+                "habitaciones elegantes con vistas panorámicas y un restaurante " +
+                "gourmet de alta calidad. \nAdemás, dispone de un spa de lujo y una piscina infinita " +
+                "para disfrutar del paisaje mientras se relaja.";
+
         }
 
         private void InitializeHotelChimborazo()
@@ -194,6 +205,12 @@ namespace Proyecto
                 "US$79 US$62 + US$21 de impuestos y cargos   (4 PERSONAS)",
 
             };
+            hoteles["Chimborazo"].VistaGeneral = "El Hotel Chimborazo se encuentra en un entorno natural " +
+                "único, con vistas espectaculares al majestuoso \nVolcán Chimborazo. " +
+                "Cuenta con habitaciones acogedoras y modernas, perfectas para descansar después\n de un día de exploración. " +
+                "Los huéspedes pueden disfrutar de un restaurante de cocina local, " +
+                "un spa\n relajante y actividades al aire libre como senderismo y paseos en bicicleta.";
+
         }
 
         private void InitializeHotelZeus()
@@ -245,6 +262,12 @@ namespace Proyecto
                 "US$90 Incluyen impuestos y cargos   (1 PERSONA)",
 
             };
+            hoteles["Zeus"].VistaGeneral = "El Hotel Zeus se encuentra en una ubicación privilegiada, " +
+               "con vistas al mar y una arquitectura inspirada en el estilo clásico.\n Las habitaciones " +
+               "modernas ofrecen un ambiente relajante, mientras que sus espacios al aire libre, " +
+               "como el jardín\n y la terraza, son perfectos para disfrutar de atardeceres impresionantes. " +
+               "Además, el hotel cuenta con un gimnasio y un bar\n exclusivo para sus huéspedes.";
+
         }
 
         private void InitializeHotelAndaluza()
@@ -298,6 +321,12 @@ namespace Proyecto
                 "US$242 + US$60 de impuestos y cargos     (2 PERSONAS)",
 
             };
+            hoteles["La Andaluza"].VistaGeneral = "Hotel La Andaluza combina el encanto de la arquitectura " +
+               "tradicional con comodidades modernas. Situado cerca de la costa, sus habitaciones \ncuentan " +
+               "con vistas al mar y a los hermosos jardines del hotel. Los huéspedes pueden disfrutar de " +
+               "una piscina exterior, un restaurante\n con especialidades mediterráneas, y un ambiente cálido " +
+               "que invita a la relajación y la desconexión.";
+
         }
 
         private void InitializeHotelAbraspungo()
@@ -349,6 +378,12 @@ namespace Proyecto
                 "US$164 + US$41 de impuestos y cargos   (2 PERSONA)",
 
             };
+            hoteles["Abraspungo"].VistaGeneral = "El Hotel Abraspungo se destaca por su ubicación en " +
+               "un entorno montañoso, donde los visitantes pueden disfrutar de las vistas\n panorámicas de " +
+               "las montañas y valles circundantes. Ofrece un ambiente rústico y acogedor, con habitaciones " +
+               "de madera\n y decoración local. Además, el hotel tiene un restaurante que ofrece platos típicos " +
+               "y actividades como paseos a caballo y caminatas\n por la naturaleza.";
+
         }
 
         // Manejadores de eventos para cada botón de consulta

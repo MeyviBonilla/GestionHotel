@@ -106,15 +106,17 @@ namespace Proyecto
         private void LoadHotelOverview()
         {
             tabVistaGeneral.Controls.Clear();
-
             Label lblOverview = new Label();
-            lblOverview.Text = hotel != null ? hotel.Nombre : "Vista General";
-            lblOverview.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
+            lblOverview.Text = hotel != null && !string.IsNullOrEmpty(hotel.VistaGeneral)
+                ? hotel.VistaGeneral
+                : "No hay información disponible sobre la vista general del hotel.";
+            lblOverview.Font = new Font("Segoe UI", 9F, FontStyle.Regular);
             lblOverview.AutoSize = true;
             lblOverview.Location = new Point(10, 10);
 
             tabVistaGeneral.Controls.Add(lblOverview);
         }
+
 
         private void tabControl1_SelectedIndexChanged(object sender, EventArgs e)
         {

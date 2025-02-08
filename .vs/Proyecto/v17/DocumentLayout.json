@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|C:\\Users\\Alexandra Enriquez\\Pictures\\GestionHotel\\proyecto\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|C:\\Users\\Alexandra Enriquez\\Pictures\\GestionHotel\\proyecto\\listhoteles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\listhoteles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|C:\\Users\\Alexandra Enriquez\\Pictures\\GestionHotel\\proyecto\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|C:\\Users\\Alexandra Enriquez\\Pictures\\GestionHotel\\proyecto\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|C:\\Users\\Alexandra Enriquez\\Pictures\\GestionHotel\\proyecto\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|C:\\Users\\Alexandra Enriquez\\Pictures\\GestionHotel\\proyecto\\listhoteles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\listhoteles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{661A9CA9-4390-404B-8F40-FC232993ECA6}|Proyecto\\Proyecto.csproj|C:\\Users\\Alexandra Enriquez\\Pictures\\GestionHotel\\proyecto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -58,7 +58,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ListHoteles.cs",
               "DocumentMoniker": "C:\\Users\\Alexandra Enriquez\\Pictures\\GestionHotel\\Proyecto\\ListHoteles.cs",
               "RelativeDocumentMoniker": "Proyecto\\ListHoteles.cs",
@@ -70,38 +70,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form4.cs",
               "DocumentMoniker": "C:\\Users\\Alexandra Enriquez\\Pictures\\GestionHotel\\Proyecto\\Form4.cs",
               "RelativeDocumentMoniker": "Proyecto\\Form4.cs",
               "ToolTip": "C:\\Users\\Alexandra Enriquez\\Pictures\\GestionHotel\\Proyecto\\Form4.cs",
               "RelativeToolTip": "Proyecto\\Form4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:58:33.153Z"
+              "WhenOpened": "2025-02-01T16:58:33.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form4.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alexandra Enriquez\\Pictures\\GestionHotel\\Proyecto\\Form4.cs",
               "RelativeDocumentMoniker": "Proyecto\\Form4.cs",
-              "ToolTip": "C:\\Users\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\Proyecto\\Form4.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\Meyvi\\Desktop\\Segundo Semestre TIC\\Programaci\u00F3n\\GestionHotel\\Proyecto\\Form4.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Alexandra Enriquez\\Pictures\\GestionHotel\\Proyecto\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto\\Form4.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:56:51.021Z"
+              "WhenOpened": "2025-02-01T16:56:51.021Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Hotel.cs",
               "DocumentMoniker": "C:\\Users\\Alexandra Enriquez\\Pictures\\GestionHotel\\Proyecto\\Hotel.cs",
               "RelativeDocumentMoniker": "Proyecto\\Hotel.cs",
               "ToolTip": "C:\\Users\\Alexandra Enriquez\\Pictures\\GestionHotel\\Proyecto\\Hotel.cs",
               "RelativeToolTip": "Proyecto\\Hotel.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:19:46.076Z"
+              "WhenOpened": "2025-02-01T16:19:46.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,7 +114,7 @@
               "RelativeDocumentMoniker": "Proyecto\\Form2.cs",
               "ToolTip": "C:\\Users\\Alexandra Enriquez\\Pictures\\GestionHotel\\Proyecto\\Form2.cs",
               "RelativeToolTip": "Proyecto\\Form2.cs",
-              "ViewState": "AgIAAFoAAAAANDMzM3MuwGoAAAB6AAAAAAAAAA==",
+              "ViewState": "AgIAADoBAAAAAAAAAAAAAEcBAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T16:18:32.752Z",
               "EditorCaption": ""
@@ -172,7 +175,8 @@
               "RelativeToolTip": "Proyecto\\Form4.Designer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwHcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:57:06.072Z"
+              "WhenOpened": "2025-02-01T16:57:06.072Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

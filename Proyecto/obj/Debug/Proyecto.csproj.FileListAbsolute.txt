@@ -49,3 +49,16 @@ C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\
 C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
 C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\obj\Debug\Proyecto.exe
 C:\Users\Meyvi\Desktop\Segundo Semestre TIC\Programación\GestionHotel\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Alexandra Enriquez\Pictures\GestionHotel\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Alexandra Enriquez\Pictures\GestionHotel\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Alexandra Enriquez\Pictures\GestionHotel\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Alexandra Enriquez\Pictures\GestionHotel\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Alexandra Enriquez\Pictures\GestionHotel\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Alexandra Enriquez\Pictures\GestionHotel\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\Alexandra Enriquez\Pictures\GestionHotel\Proyecto\obj\Debug\Proyecto.Form3.resources
+C:\Users\Alexandra Enriquez\Pictures\GestionHotel\Proyecto\obj\Debug\Proyecto.Form4.resources
+C:\Users\Alexandra Enriquez\Pictures\GestionHotel\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Alexandra Enriquez\Pictures\GestionHotel\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Alexandra Enriquez\Pictures\GestionHotel\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra Enriquez\Pictures\GestionHotel\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Alexandra Enriquez\Pictures\GestionHotel\Proyecto\obj\Debug\Proyecto.pdb

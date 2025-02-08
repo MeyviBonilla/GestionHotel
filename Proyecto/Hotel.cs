@@ -10,6 +10,7 @@ namespace Proyecto
     {
         public string Nombre { get; set; }
         public string Descripcion { get; set; }
+        public string VistaGeneral { get; set; }
         public List<string> Servicios { get; set; }
 
         public Hotel(string nombre)  
