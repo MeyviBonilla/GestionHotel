@@ -96,7 +96,7 @@ namespace Proyecto
             else
             {
                 Label lblNoServices = new Label();
-                lblNoServices.Text = "No hay servicios disponibles";
+                lblNoServices.Text = "No existen servicios disponibles";
                 lblNoServices.AutoSize = true;
                 lblNoServices.Location = new Point(10, 10);
                 tabServicios.Controls.Add(lblNoServices);
