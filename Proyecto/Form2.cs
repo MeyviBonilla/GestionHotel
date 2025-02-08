@@ -104,7 +104,7 @@ namespace Proyecto
             hoteles["Montecarlo"].Descripcion = "Hotel El Altar está en Riobamba, a 50 km del Volcán Chimborazo," +
                 "y ofrece alojamiento con jardín, parking privado gratis, salón de uso común y restaurante. " +
                 " Este maravillos hotel ofrece servicio de habitaciones y recepción 24 horas. Algunas habitaciones  del  alojamiento " +
-                " incluyen un balcón con vistas al jardín. Esta ubicado en la 10 de Agosto y España,  Riobamba, Ecuador.";
+                " incluyen un balcón con vistas al jardín. Esta ubicado en la 10 de Agosto y España,  Riobamba, Ecuador xd.";
 
             hoteles["Montecarlo"].Servicios = new List<string>
             {
